@@ -21,7 +21,7 @@
           "Step 3: Assemble eggs, whipping cream, parmesan, salt and pepper in a bowl and whisk.",
           "Step 4: Drain the pasta and pour it back into the pan, fold in the egg mixture and the fried bacon. Stir over low heat to a creamy paste."
         ],
-        "img": "../Pictures/kramig_carbonara.jpeg"
+        "img": "../Pictures/Carbonara.jpg"
       },
       {
         "id": 2,
@@ -41,7 +41,7 @@
           "Step 3: Poke several holes in rib eye with a sharp knife. Rub butter mixture all over meat and season with salt and pepper. Place rib eye fat-side up in a roasting pan.",
           "Step 4: Roast in the preheated oven for 20 minutes."
         ],
-        "img": "../Pictures/rib_eye.jpeg"
+        "img": "../Pictures/ribeye.jpg"
       },
       {
         "id": 3,
@@ -61,7 +61,7 @@
           "Step 3: Poke several holes in rib eye with a sharp knife. Rub butter mixture all over meat and season with salt and pepper. Place rib eye fat-side up in a roasting pan.",
           "Step 4: Roast in the preheated oven for 20 minutes."
         ],
-        "img": "../Pictures/rib_eye.jpeg"
+        "img": "../Pictures/grilledcheese.jpg"
       },
       {
         "id": 4,
@@ -114,6 +114,37 @@
           "Step 6: Serve Cevapi hot along with pita or flatbread, and a selection of sliced onions, Ajvar dip, soft or cottage cheese, roasted potatoes, and grilled vegetables"
         ],
         "img": "../Pictures/cevapcici.jpeg"
+      },
+    
+      {
+        "id": 5,
+        "name": "Vietnamese Pho",
+        "culture": "Vietnamese",
+        "time": "8 hours 25 mins",
+        "portions": "4 people",
+        "ingredients": [
+          "Beef Soup Bones",
+          "Rice noodles",
+          "Beef sirloin",
+          "Fish sauce",
+          "Onions",
+          "Ginger",
+          "Star anise",
+          "Salt",
+          "Cilantro",
+          "Green onion",
+          "Thai basil",
+          "Lime",
+          "Hoisin sauce",
+          "Sriracha"
+        ],
+        "directions": [
+          "Step 1: Roast the beef bones and onions until the bones are browned and the onions are soft.",
+          "Step 2: Combine roasted beef bones, roasted onions, ginger, salt, star anise, fish sauce, and water in a large stockpot. Allow to simmer for 6 to 10 hours. Then, strain the broth into a new saucepan.",
+          "Step 3: Allow dry rice noodles to soak for 1 hour. While they're soaking, bring broth to a simmer.",
+          "Step 4: Cook the rice noodles in boiling water. Drain and add noodles to a bowl topped with sirloin, cilantro, green onion, and broth. Garnish with your desired toppings."
+        ],
+        "img": "../Pictures/beefpho.jpg"
       }
     ]
   }
