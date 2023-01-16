@@ -1,0 +1,95 @@
+{
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Pasta Carbonara",
+        "culture": "Italian",
+        "time": "under 30 min",
+        "portions": "4 people",
+        "ingredients": [
+          "500 g fresh spaghetti",
+          "2 packs bacon (klippt i 2 cm bitar)",
+          "4 eggs",
+          "1 dl whipping cream",
+          "2 dl riven parmesan",
+          "1/2 tsk salt",
+          "2 krm Tellicherry blackpepper"
+        ],
+        "directions": [
+          "Step 1: Boil spaghetti",
+          "Step 2: Fry the bacon until brown and crunchy",
+          "Step 3: Assemble eggs, whipping cream, parmesan, salt and pepper in a bowl and whisk.",
+          "Step 4: Drain the pasta and pour it back into the pan, fold in the egg mixture and the fried bacon. Stir over low heat to a creamy paste."
+        ],
+        "img": "../Pictures/kramig_carbonara.jpeg"
+      },
+      {
+        "id": 2,
+        "name": "Rib eye roast",
+        "culture": "American",
+        "time": "1 hour & 40 minutes",
+        "portions": "8 people",
+        "ingredients": [
+          "1 cup softened butter",
+          "6 cloves of garlic",
+          "1 (4 pound) bone-in rib-eye roast",
+          "sea salt and cracked black pepper to taste"
+        ],
+        "directions": [
+          "Step 1: Preheat the oven to 500 degrees F (260 degrees C).",
+          "Step 2: Beat butter and garlic together in a bowl.",
+          "Step 3: Poke several holes in rib eye with a sharp knife. Rub butter mixture all over meat and season with salt and pepper. Place rib eye fat-side up in a roasting pan.",
+          "Step 4: Roast in the preheated oven for 20 minutes."
+        ],
+        "img": "../Pictures/rib_eye.jpeg"
+      },
+      {
+        "id": 3,
+        "name": "Grilled Cheese",
+        "culture": "American",
+        "time": "10 minutes",
+        "portions": "1 people",
+        "ingredients": [
+          "1 cup softened butter",
+          "1 clove of garlic",
+          "200 grams of Swiss or American Cheese",
+          "2 slices of white toast bread"
+        ],
+        "directions": [
+          "Step 1: Butter every side of each toast .",
+          "Step 2: Beat butter and garlic together in a bowl.",
+          "Step 3: Poke several holes in rib eye with a sharp knife. Rub butter mixture all over meat and season with salt and pepper. Place rib eye fat-side up in a roasting pan.",
+          "Step 4: Roast in the preheated oven for 20 minutes."
+        ],
+        "img": "../Pictures/rib_eye.jpeg"
+      },
+      {
+        "id": 4,
+        "name": "Ajvar",
+        "culture": "Balkan",
+        "time": "2h",
+        "portions": "700g mason jar",
+        "ingredients": [
+          "4kg red bull horn peppers",
+          "200 ml sunflower oil",
+          "1-2 tbsp wine vinegar",
+          "Salt, to taste",
+          "chili peppers, optional, to taste"
+        ],
+        "directions": [
+          "Step 1: First, set the oven to preheat to 220°C (430°F), then wash and dry the peppers. Arrange the peppers on a baking tray and bake them until the skin is blackened and peeling away. Rotate them from time to time to make sure they blacken evenly. You will need to do the baking in batches, as they will not all fit in the oven at once.",
+          "Step 2: As each batch of peppers is finished, transfer them to a plastic bag that's placed in a plastic container, and close the plastic bag. The steam will soften the skin, making it easier to peel the peppers.",
+          "Step 3: Once cooled, take the peppers out, then peel and deseed them. Put them in a mesh bag, and hang the bag over a container so that the peppers can drain overnight.",
+          "Step 4: The following day, finely mince the peppers, then place them in a large and oiled pot. Pour the remaining oil over the peppers and leave the peppers to sit like this for 20 minutes, so they have time to soak in the oil.",
+          "Step 5: While stirring constantly, bring the peppers first to a boil, then lower the temperature until only simmering. Never stop stirring it, or it will burn. Depending on the amount, this step can take up to three hours. The ajvar is done once all the liquid evaporates and you're left with a thick spread.",
+          "Step 6: Near the end of cooking, add vinegar, and season with salt to taste.",
+          "Step 1: Boil spaghetti",
+          "Step 8: Put the jars in the 100°C (210°F) oven for 20 minutes until the crust has formed on top of ajvar in each jar. Then, pour the oil into the jars, and seal them.",
+          "Step 9: Arrange them in a box and cover them with kitchen cloths and towels. Leave them to cool down like that for the next 36-48 hours.",
+          "Step 10: Store in a cold and dark place until ready to use."
+        ],
+        "img": "../Pictures/ajvar.jpg"
+      }
+    ]
+  }
+  
