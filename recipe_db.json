@@ -77,18 +77,43 @@
           "chili peppers, optional, to taste"
         ],
         "directions": [
-          "Step 1: First, set the oven to preheat to 220°C (430°F), then wash and dry the peppers. Arrange the peppers on a baking tray and bake them until the skin is blackened and peeling away. Rotate them from time to time to make sure they blacken evenly. You will need to do the baking in batches, as they will not all fit in the oven at once.",
-          "Step 2: As each batch of peppers is finished, transfer them to a plastic bag that's placed in a plastic container, and close the plastic bag. The steam will soften the skin, making it easier to peel the peppers.",
-          "Step 3: Once cooled, take the peppers out, then peel and deseed them. Put them in a mesh bag, and hang the bag over a container so that the peppers can drain overnight.",
-          "Step 4: The following day, finely mince the peppers, then place them in a large and oiled pot. Pour the remaining oil over the peppers and leave the peppers to sit like this for 20 minutes, so they have time to soak in the oil.",
-          "Step 5: While stirring constantly, bring the peppers first to a boil, then lower the temperature until only simmering. Never stop stirring it, or it will burn. Depending on the amount, this step can take up to three hours. The ajvar is done once all the liquid evaporates and you're left with a thick spread.",
+          "Step 1: First, set the oven to preheat to 220°C (430°F), then wash and dry the peppers. Arrange the peppers on a baking tray and bake them until the skin is blackened and peeling away. Rotate them from time to time to make sure they blacken evenly. You will need to do the baking in batches, as they will not all fit in the oven at once",
+          "Step 2: As each batch of peppers is finished, transfer them to a plastic bag that's placed in a plastic container, and close the plastic bag. The steam will soften the skin, making it easier to peel the peppers",
+          "Step 3: Once cooled, take the peppers out, then peel and deseed them. Put them in a mesh bag, and hang the bag over a container so that the peppers can drain overnight",
+          "Step 4: The following day, finely mince the peppers, then place them in a large and oiled pot. Pour the remaining oil over the peppers and leave the peppers to sit like this for 20 minutes, so they have time to soak in the oil",
+          "Step 5: While stirring constantly, bring the peppers first to a boil, then lower the temperature until only simmering. Never stop stirring it, or it will burn. Depending on the amount, this step can take up to three hours. The ajvar is done once all the liquid evaporates and you're left with a thick spread",
           "Step 6: Near the end of cooking, add vinegar, and season with salt to taste.",
           "Step 1: Boil spaghetti",
-          "Step 8: Put the jars in the 100°C (210°F) oven for 20 minutes until the crust has formed on top of ajvar in each jar. Then, pour the oil into the jars, and seal them.",
-          "Step 9: Arrange them in a box and cover them with kitchen cloths and towels. Leave them to cool down like that for the next 36-48 hours.",
-          "Step 10: Store in a cold and dark place until ready to use."
+          "Step 8: Put the jars in the 100°C (210°F) oven for 20 minutes until the crust has formed on top of ajvar in each jar. Then, pour the oil into the jars, and seal them",
+          "Step 9: Arrange them in a box and cover them with kitchen cloths and towels. Leave them to cool down like that for the next 36-48 hours",
+          "Step 10: Store in a cold and dark place until ready to use"
         ],
         "img": "../Pictures/ajvar.jpg"
+      },
+            {
+        "id": 5,
+        "name": "Cevapcici",
+        "culture": "Balkan",
+        "time": "45 min",
+        "portions": "4 people",
+        "ingredients": [
+          "900g mixed meat, grounded",
+          "3 cloves garlic",
+          "3 tbsp water",
+          "1.5 tbsp baking soda",
+          "2 tsp paprika (optional)",
+          "1 tsp black pepper",
+          "1 tsp table salt"
+        ],
+        "directions": [
+          "Step 1: First, peel and mince the garlic",
+          "Step 2: Pour the ground meats into a bowl, along with all the other ingredients",
+          "Step 3: Knead until well mixed, cover, and let rest into the fridge at least 4 hours (best if 12 hours)",
+          "Step 4: Take a scoop of Cevapi mixture and mold into a cylindrical shape compressing the meat very well",
+          "Step 5: Grill the Cevapi until medium or well done, depending on your taste",
+          "Step 6: Serve Cevapi hot along with pita or flatbread, and a selection of sliced onions, Ajvar dip, soft or cottage cheese, roasted potatoes, and grilled vegetables"
+        ],
+        "img": "../Pictures/cevapcici.jpeg"
       }
     ]
   }
