@@ -19,13 +19,15 @@
             <input type='password' name='password' placeholder='password'>
             <button id='logBtn' type='submit'>Log in</button>
         </form>
-
+<!-- 
         <form id='register'>
             <h2>Don't have an account? Register!</h2>
             <a class='regBtn' href="register.php">Register</a>
-        </form>
+</form> -->
 
     </main>
+
+    <script src="functions.js"></script> 
 
     <?php
     include 'sections/footer.php';

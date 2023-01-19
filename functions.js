@@ -1,11 +1,13 @@
-document.getElementById("logBtn").addEventListener("click", (event) => {event.preventDefault()
-    logIn});
+document.getElementById("logBtn").addEventListener("click", logIn);
 
 
-async function logIn() {
+async function logIn(event) {
+    event.preventDefault();
 
-      const username = document.getElementByName("username")[0].value;
-      const password = document.getElementByName("password")[0].value;
+    console.log("hej");
+
+      const username = document.getElementsByName("username")[0].value;
+      const password = document.getElementsByName("password")[0].value;
 
       const body = {
         username: username,
@@ -20,19 +22,20 @@ async function logIn() {
         }
       }
 
-      const response = await fetch("logIn.php", options);  
+      const response = await fetch("login.php", options);
+      console.log(response); 
       if(response.ok) {
          document.querySelector("body").innerHTML = "";
          renderRecipes();
 
       } else {
         document.getElementById("error").textContent = "Invalid username or password";
-          }; //inte ok error meddelande 
+          }; 
 
 } 
 
 async function renderRecipes() {
-    const response = await fetch("get.php?recipes")
+    const response = await fetch("./get.php?recipes")
     const resource = await response.json(); 
     for(let recipe of resource) {
         let div = document.createElement("div");

@@ -30,3 +30,5 @@
 
     $error = "Error" => "User not found";
     sendJSON($error, 404);
+
+    ?>
